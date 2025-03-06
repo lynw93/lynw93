@@ -1,4 +1,6 @@
-## Hi there 👋 my name is Lyn
+## Hi there 👋 
+
+My name is Lyn, and I'm interested in Systematic Trading & Data Science!
 
 **About me**
 

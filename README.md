@@ -5,6 +5,7 @@ My name is Lyn, and I'm interested in Systematic Trading & Data Science!
 **About me**
 - 🔭 I love stats and enjoy problems with a scientific approach
 - 🌱 I’m currently learning AI/ML
+- 📫 fulingw@hotmail.com
 
 <!--
 **lynw93/lynw93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 My name is Lyn, and I'm interested in Systematic Trading & Data Science!
 
 **About me**
-- 🔭 I love stats and enjoy problems with a scientific approach
+- 🔭 I love stats and enjoy solving problems with a scientific approach
 - 🌱 I’m currently learning AI/ML
 - 📫 fulingw@hotmail.com
 

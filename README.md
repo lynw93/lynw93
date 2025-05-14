@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is Lyn, and I'm interested in Systematic Trading & Data Science!
+My name is Lyn, and I'm interested in sytematic trading & Data Science!
 
 **About me**
 - 🔭 I love stats and enjoy solving problems with a scientific approach
